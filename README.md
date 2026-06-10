@@ -1,5 +1,3 @@
-# clubphone
-Club phone Eilat website 
 import { useState, useEffect, useRef } from "react";
 
 const COLORS = {
@@ -750,4 +748,6 @@ export default function ClubPhone() {
           </div>
         </div>
       </footer>
-    </
+    </div>
+  );
+}
