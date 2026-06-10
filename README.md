@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef } from "react";
-
 const COLORS = {
   bg: "#0a0a0f",
   surface: "#13131a",
