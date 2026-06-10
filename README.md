@@ -13,7 +13,6 @@ const COLORS = {
   border: "#2a2a3a",
   gold: "#ffd700",
 };
-
 const nav = ["בית", "סמארטפונים", "אביזרים", "מעבדה", "אודות", "צור קשר"];
 
 const brands = [
